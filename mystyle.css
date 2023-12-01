@@ -1,0 +1,47 @@
+p, li {
+    color:blueviolet;
+    font-size: 18px;
+    line-height: 2;
+    
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color:#4A2F63;
+    text-shadow: 3px 3px 1px whitesmoke;
+}
+/* this makes text italic */
+#caution {
+    font-style:italic;
+}
+
+.para {
+    color:#4A2F63 ;
+
+}
+
+.para1 {
+    color: #4A2F63;
+    font-family: Helvetica;
+    font-weight: bold;
+}
+
+body {
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 600px;
+    border: 4px solid black;
+    background-color:#D7CBE5;
+}
+
+html{
+    background-color: #4A2F63;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
